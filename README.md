@@ -13,4 +13,4 @@ This bash script automates the process of cherry-picking commits from a source b
 To run the script, use the following syntax:
 
 ```bash
-./cherry_pick_commits.sh <target_branch> <source_branch> <tags> <start_commit>
+./auto_commit_picker.sh <target_branch> <source_branch> <tags> <start_commit>
